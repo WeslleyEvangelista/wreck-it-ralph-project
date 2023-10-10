@@ -1,7 +1,7 @@
-@import url('/src/styles/reset.css');
+@import url('https://weslleyevangelista.github.io/wreck-it-ralph-project/src/styles/reset.css');
 
 .container {
-    background-image: url('../images/wall.png');
+    background-image: url('https://weslleyevangelista.github.io/wreck-it-ralph-project/src/images/wall.png');
     display: flex;
     flex-direction: column;
     height: 100vh;
@@ -33,7 +33,7 @@
 }
 
 .enemy {
-    background-image: url('../images/ralph.png');
+    background-image: url('https://weslleyevangelista.github.io/wreck-it-ralph-project/src/images/ralph.png');
     background-size: cover;
 }
 
